@@ -4,3 +4,6 @@
 *{
     font-family: 'Inter', sans-serif;
 }
+body {
+    @apply bg-[#09090a] text-zinc-100
+}
